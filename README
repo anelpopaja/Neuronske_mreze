@@ -1,0 +1,45 @@
+Anel Popaja – Neuronske mreže
+Rad na velikom projektu
+Draft 1
+*Napomena: uz ovaj dokument je priloženo 18 snimaka zaslona koji predstavljaju trenutni izgled web sajta, određeni dijelovi stranica koji su sadržavali samo tekst je izostavljen iz snimaka zaslona iz razloga što nije dolazilo do većih promjena u tim paragrafima, a većina tekstualnog sadržaja koji je korišten se može pronaći u seminarkom radu napisanom na ovu temu
+*Napomena 2: Screenshot (02) je prikaz dijela glavne stranice na kojem se nalazi link ka video materijalima. Pozadina ovog dijela je predstavljena kao video dužine 40s
+Osmišljen je dizajn stranice i odabran template
+Napravljen logo stranice
+Namjena stranice je da bude informativnog karaktera vezano za područje osnova iz polja neuronskih mreža, pri čemu će sadržavati edukativne materijale i blog za objavljivanje tekstova ili multimedijalnog sadržaja vezanog za ovu temu
+Početna stranica je odabrana kao fiksna stranica sa nekoliko dijelova
+Izgrađeno je zaglavlje i podnožje stranice
+Planirano je da se web stranica sastoji iz više pod stranica i to:
+•	O neuronskim mrežama
+•	Video materijali
+•	Učenje
+a.	Nadgledano učenje
+b.	Nenadgledano učenje
+•	Blog
+•	Kontakt
+Početna stranica je većim dijelom završena izuzev malih vizuelnih izmjena u budućnosti i mogućnosti dodavanja direktne poveznice ka blogu
+O neuronskim mrežama je stranica koja služi kao uvod u temu o neuronskim mrežama
+Stranica video materijali je završena s 4 importovana videa o principu rada neuronskih mreža s platforme Youtube
+Stranica učenje iznosi osnovne teze o principu učenja kod neuronski mreža, te sadrži dvije podstranice, nadgledano i nenadgledano učenje. Dugmad koja služe kao linkovi ka ovim stranicama su podliježna budućim promjenama
+Stranica blog je u početnoj fazi izrade, dok su joj sve tehničke mogućnosti u funkciji, dizajn i dalje ne odgovara ostatku stranica
+Stranica kontakt sadrži informacije o autoru web stranice, linkove ka njegovim društvenim mrežama i formular za kontaktiranje koji proslijeđuje poruku na mail autora web stranice
+Header je podešen sa odgovarajućim linkovima ka podstranicama
+Sve slike koje su korištene za izradu stranica imaju dozvolu za besplatno korištenje, te link ka neuronskoj mreži na stranici TensorFlow ima dozvolu da bude dijeljen
+
+Daljni planovi:
+Moguća izmjena određenih tekstova
+Dopuna teksta vezanog za nenadgledano učenje
+Redizajn blog stranice
+Mogućnost dodavanja još jedne podstranice
+Prilagođavanje sajta da bude pregledan na mobilnim uređajima (većina sadržaja je poprilično prilagođena od početka izrade, tako da ovaj korak ne bi trebao biti previše zahtjevan)
+
+Napomena: većina teksta je radi jednostavnosti i praktičnosti izrade stranica kopirana iz seminarskog rada Umjetne neuronske mreže, s ovim se postiže brže popunjavanje sadržaja stranice, te se omogućava veća posvećenost izradi praktičnih dijelova stranice
+
+
+Finalna verzija
+
+Sajt je završen i odrađeni su preostali ciljevi nakon 1. drafta. 
+Tekstovi su izmijenjeni po potrebi i napisani u potpunosti
+Dodana blog stranica
+Sajt prilagođen pregledavanju na mobitelu
+Dodana mogućnost dijeljenja sadržaja preko društvenih mreža
+Vizuelne izmjene 
